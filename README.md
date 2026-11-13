@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> Hi, I'm Federico Albornoz! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="32" height="32" />
 
-<img align="right" width="240" src="https://raw.githubusercontent.com/alborfede/alborfede/main/cat-coding.gif" />
+<img align="right" width="240" src="https://raw.githubusercontent.com/alborfede/alborfede/main/cat-coding1.gif" />
 
 *Digital Transformation Specialist | UX/UI & GovTech Strategy* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="24" height="24" />
 

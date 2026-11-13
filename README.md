@@ -1,7 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> Hi, I'm Federico Albornoz! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="32" height="32" />
 
----
-
 <img align="right" width="240" src="https://raw.githubusercontent.com/alborfede/alborfede/main/cat-coding.gif" />
 
 *Digital Transformation Specialist | UX/UI & GovTech Strategy* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="24" height="24" />
@@ -13,8 +11,6 @@
 Digital Transformation Specialist with **+5 years of experience** bridging **UX/UI design, Artificial Intelligence, and GovTech strategy**. Background in **Public Affairs** (Ex-Parliamentary Advisor) and academic training at **UNLP**, splitting time between **Germany and Buenos Aires** 🇩🇪✈️🇦🇷. Focused on turning complex institutional workflows into intuitive, human-centered digital products through Figma prototyping, AI implementation, and scalable design systems.
 
 <br clear="right"/>
-
----
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="26" height="26" /> Core Focus & Stack
 

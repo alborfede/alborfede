@@ -10,7 +10,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/alborfede?style=social)](https://github.com/alborfede)
 [![Figma](https://img.shields.io/badge/Figma-Design_Portfolio-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@TU_USUARIO_FIGMA)
 
-Digital Transformation Specialist with **+5 years of experience** bridging **UX/UI design, Artificial Intelligence, and GovTech strategy**. Background in **Public Affairs** (Ex-Parliamentary Advisor) and academic training at **UNLP**, currently based in **Germany**. Focused on turning complex institutional workflows into intuitive, human-centered digital products through Figma prototyping, AI implementation, and scalable design systems.
+Digital Transformation Specialist with **+5 years of experience** bridging **UX/UI design, Artificial Intelligence, and GovTech strategy**. Background in **Public Affairs** (Ex-Parliamentary Advisor) and academic training at **UNLP**, splitting time between **Germany and Buenos Aires** 🇩🇪✈️🇦🇷. Focused on turning complex institutional workflows into intuitive, human-centered digital products through Figma prototyping, AI implementation, and scalable design systems.
 
 <br clear="right"/>
 

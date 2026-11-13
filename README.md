@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="240" src="cat-coding.gif" />
 
 *Digital Transformation Specialist | UX/UI & GovTech Strategy* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="24" height="24" />
 
